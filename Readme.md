@@ -27,6 +27,7 @@ As I often tell my students: **physics is the poetry of reality, written in the 
 
 The following are links to PDF files. GitHub is occasionally allergic to rendering them properly. In case of an allergic reaction, just download the file.
 
+  * [An Essay on Science](Lectures/essay.pdf)
   * [What is Science, what about Physics?](Lectures/Phys-1410-Class-01.pdf)   
   * [Kinematics: Description of Motion](Lectures/Phys-1410-Class-02.pdf)
   * [Newtonian Mechanics And Gravitation](Lectures/Class_03_Compressed.pdf)

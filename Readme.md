@@ -25,5 +25,5 @@ As I often tell my students: **physics is the poetry of reality, written in the 
 
 ### Contents:
 
-  * [What is Science, what about Physics?](lectures/laquesea.pdf)
+  * [What is Science, what about Physics?](Lectures/Phys-1410-Clas#1.pdf)
 

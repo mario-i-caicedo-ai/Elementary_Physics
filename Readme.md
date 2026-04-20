@@ -29,6 +29,6 @@ The following are links to PDF files. GitHub is occasionally allergic to renderi
 
   * [What is Science, what about Physics?](Lectures/Phys-1410-Class-01.pdf)   
   * [Kinematics: Description of Motion](Lectures/Phys-1410-Class-02.pdf)
-  * [xxxx](Lectures/xxx)
+  * [Newtonian Mechanics And Gravitation](Lectures/Class_03_Compressed.pdf)
   * [Energy, Power And Oscilations](Lectures/Phys-1410-Class-04.pdf)
   * [Momemtum, Impulse, Rigid Body Dynamics, Fluids and Thermodynamics](Lectures/Phys-1410-Class-05.pdf)

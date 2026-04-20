@@ -27,4 +27,6 @@ As I often tell my students: **physics is the poetry of reality, written in the 
 
   * [What is Science, what about Physics?](Lectures/Phys-1410-Class-01.pdf)   
   * [Kinematics: Description of Motion](Lectures/Phys-1410-Class-02.pdf)
-
+  * [xxxx](Lectures/xxx)
+  * [Kinematics: Description of Motion](Lectures/Phys-1410-Class-04.pdf)
+  * [Kinematics: Description of Motion](Lectures/Phys-1410-Class-04.pdf)

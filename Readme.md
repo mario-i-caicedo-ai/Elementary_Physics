@@ -1,28 +1,18 @@
-from weasyprint import HTML
+# Physics for Poets: Training the Reason
 
-# Contenido del archivo Markdown
-md_content = """# Physics for Poets: Training the Reason
+Welcome to this repository. This space is dedicated to the conceptual approach to physics, known in many academic institutions in the United States as **"Physics for Poets."**
 
-Bienvenido a este repositorio. Este espacio está dedicado al enfoque conceptual de la física, conocido en muchas instituciones académicas de los Estados Unidos como **"Physics for Poets"**.
+### Purpose of the Repository
+Throughout my teaching career, I have always advocated against the "black box" model of education. Understanding physics is not about memorizing formulas or performing mechanical calculations; it is about understanding the **structure** of the universe.
 
-### Propósito del Repositorio
-A lo largo de mi trayectoria docente, siempre he abogado en contra del modelo educativo de la "caja negra". Entender la física no consiste en memorizar fórmulas o realizar cálculos mecánicos; consiste en comprender la **estructura** del universo.
+This repository serves as a bridge between the rigorous world of physical laws and the inquisitive mind of the humanist. Here, we don't just solve problems; we explore history, classical thought, and the inherent beauty of the laws that govern our reality—from Galileo's dialogues to the elegance of Newtonian mechanics.
 
-Este repositorio sirve como un puente entre el riguroso mundo de las leyes físicas y la mente inquisitiva del humanista. Aquí no solo resolvemos problemas; exploramos la historia, el pensamiento clásico y la belleza inherente de las leyes que gobiernan nuestra realidad — desde los diálogos de Galileo hasta la elegancia de la mecánica newtoniana.
+### What You Will Find Here:
+* **Conceptual Frameworks:** Materials designed to build a solid mental structure.
+* **Historical Context:** Anecdotes and quotes from the giants who paved the way.
+* **Structural Learning:** Resources focused on "training the reason" rather than just providing answers.
 
-### Lo que encontrarás aquí:
-* **Marcos Conceptuales:** Materiales diseñados para construir una estructura mental sólida.
-* **Contexto Histórico:** Anécdotas y citas de los gigantes que prepararon el camino.
-* **Aprendizaje Estructural:** Recursos enfocados en "entrenar la razón" más que en simplemente proporcionar respuestas.
-
-Como suelo decir a mis alumnos: la física es la poesía de la realidad, escrita en el lenguaje de la lógica.
+As I often tell my students: physics is the poetry of reality, written in the language of logic.
 
 ---
-*Compilado y organizado por el Dr. Mario I. Caicedo.*
-"""
-
-# Guardar el contenido en un archivo .md
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(md_content)
-
-print("Archivo README.md generado con éxito.")
+*Compiled and organized by Dr. Mario I. Caicedo.*

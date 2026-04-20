@@ -23,5 +23,7 @@ Thus, this repository serves as a bridge between the rigorous world of physical 
 
 As I often tell my students: **physics is the poetry of reality, written in the language of logic.**
 
+### Contents:
 
+  * [What is Science, what about Physics?](lectures/laquesea.pdf)
 

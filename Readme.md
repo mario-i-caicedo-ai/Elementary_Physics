@@ -1,4 +1,7 @@
 # Physics for Poets: Reasoning through Concepts
+---
+**Mario I. Caicedo.**
+---
 
 Welcome to this repository. This space is dedicated to the conceptual approach to physics, known in many academic institutions in the United States as **"Physics for Poets."**
 
@@ -20,7 +23,5 @@ Thus, this repository serves as a bridge between the rigorous world of physical 
 
 As I often tell my students: **physics is the poetry of reality, written in the language of logic.**
 
----
-**Mario I. Caicedo.**
----
+
 
